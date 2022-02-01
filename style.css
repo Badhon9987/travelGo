@@ -318,6 +318,7 @@ img:hover{
     background-color: white;
     color: #1b1b1bed;
     font-weight: bold;
+    border-radius: 30px;
     box-shadow: 2px 2px 5px #0000008d ;
 }
 li:hover{
